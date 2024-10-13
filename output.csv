@@ -1,0 +1,17 @@
+Date,Product,Sales_Amount,Region,Customer_ID,Quantity
+05-01-2024,Product A,500,North,123,2
+08-01-2024,Product B,700,South,234,3
+12-02-2024,Product A,450,East,345,1
+20-03-2024,Product C,800,West,456,4
+28-03-2024,Product B,650,North,567,2
+02-04-2024,Product C,900,South,678,5
+12-04-2024,Product A,550,West,789,1
+15-05-2024,Product B,700,North,890,3
+20-05-2024,Product A,500,East,123,2
+10-06-2024,Product C,850,South,234,4
+22-06-2024,Product B,750,West,345,2
+05-07-2024,Product C,950,East,456,5
+12-07-2024,Product A,600,North,567,3
+20-08-2024,Product B,700,South,678,3
+05-09-2024,Product C,1000,West,789,6
+15-09-2024,Product A,550,East,890,2
